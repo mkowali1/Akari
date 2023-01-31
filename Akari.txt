@@ -1,0 +1,6 @@
+Klasa Akari służy za menu główne mojej gry. Są w niej dostępne takie buttony jak "Start", "Instrukcja" oraz "Wyjdź".
+Przycisk "Wyjdź" sprawia, że działanie programu zostaje zakończone.
+Przycisk "Instrukcja" wywołuje tekst, który jest instrukcją do gry. Ponowne kliknięcie tego przycisku sprawi, że tekst znika.
+Przycisk "Start" nie jest jeszcze dopracowany. Plan jest taki, żeby za jego pomocą było można przeskoczyć z ramki "Akari" do ramki "OknoGry".
+Klasa OknoGry określa grę po rozpoczęciu. Na środku ramki generowana jest tablica przycisków o wymiarze 7x7. Funkcje przypisane do przycisków 
+nie są jeszcze dobrze dopracowane. 
